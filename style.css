@@ -190,3 +190,15 @@ ul {
     border: 2px solid #F9FAF8;
     color: #F9FAF8;
 }
+
+/* Footer */
+
+.footer {
+    background-color: #1F2937;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E5E7EB;
+    font-size: 18px;
+}
